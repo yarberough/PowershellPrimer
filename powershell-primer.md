@@ -1,4 +1,4 @@
-# A PowerShell Primer: From Basics to Automation
+# A PowerShell Primer
 
 PowerShell has revolutionized Windows administration since its introduction. Unlike traditional command-line interfaces, PowerShell's object-oriented approach offers unprecedented control over Windows systems and Active Directory environments. In this guide, we'll explore PowerShell from the ground up, focusing on practical applications that will make your daily tasks more efficient.
 
